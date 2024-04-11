@@ -7,7 +7,7 @@
    <img src = "https://github.com/DurgaMewada/widgets_and_refactoring/assets/149373536/c4c2d6da-2038-4a9d-9810-f5be04d6680b" width=22% height=35% >
 <br>
   <br>
-  </br>![Emoji]()
+  </br>
 
 </b>
    <img src = "https://github.com/DurgaMewada/widgets_and_refactoring/assets/149373536/ad0a6b0e-a587-49be-9ede-2890adcebf9e " width=22% height=35% >
